@@ -2,37 +2,68 @@ body {
     font-family: Arial, sans-serif;
     margin: 0;
     padding: 0;
-    background-color: #f0f0f0;
+    background-color: #93B1A6;
 }
+
 header {
-    background-color: #333;
+    background-color: #0F0F0F;
     color: #fff;
     padding: 20px;
     text-align: center;
 }
-nav {
-    background-color: #444;
-    color: #fff;
-    padding: 10px;
-    text-align: center;
-}
-nav a {
-    color: #fff;
-    text-decoration: none;
-    margin: 0 10px;
-}
-nav a:hover {
-    text-decoration: underline;
-}
+
 section {
     padding: 20px;
-}
-footer {
-    background-color: #333;
-    color: #fff;
-    padding: 10px;
+    margin-bottom: 20px;
+    margin: 0%;
     text-align: center;
-    position: fixed;
-    bottom: 0;
-    width: 100%;
 }
+
+h2 {
+    color: #00f3b2;
+}
+
+ul {
+    list-style-type: none;
+    padding: 0;
+}
+
+li {
+    margin-bottom: 5px;
+}
+
+a {
+    color: #0066cc;
+    text-decoration: none;
+}
+
+a:hover {
+    text-decoration: underline;
+}
+
+#biografia {
+    background-color: #232D3F;
+    color: #fff;
+}
+
+#biografia img {
+    width: 15rem;
+    height: 15rem;
+    border-radius: 100%;
+}
+
+#proyectos {
+    background-color: #232D3F;
+    color: #fff;
+}
+
+#habilidades {
+    background-color: #232D3F;
+    color: #fff;
+}
+
+#contacto {
+    background-color: #0F0F0F;
+    color: #fff;
+}
+
