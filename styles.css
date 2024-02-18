@@ -67,3 +67,27 @@ a:hover {
     color: #fff;
 }
 
+#contacto a {
+    color: #fff;
+}
+
+#Instagram a:hover {
+    background: linear-gradient(to right, #ff6600, #0066cc);
+    text-decoration: none;
+}
+
+#WhatsApp a:hover{
+    color: #25D366;
+    text-decoration: none;
+}
+
+#Telegram a:hover {
+    color:  #0088cc;
+    text-decoration: none;
+}
+
+#Correo a:hover {
+    background: linear-gradient(to right, #3e65cf, #c71610, #f2a60c, #3b60c4, #08851b);
+    text-decoration: none;
+}
+
